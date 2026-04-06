@@ -24,7 +24,5 @@ pip install -r requirements.txt
 python src/train_model.py
 python src/hybrid_system.py
 python plots/plot_data.py
+'''
 
-## Output
-
-![System Output](images/output.png)
