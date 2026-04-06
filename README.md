@@ -27,4 +27,4 @@ python plots/plot_data.py
 
 ## Output
 
-![System Output](images/Screenshot\ from\ 2026-04-06\ 11-33-51.png)
+![System Output](images/output.png)
